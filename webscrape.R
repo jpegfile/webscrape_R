@@ -1,4 +1,5 @@
-#loopie the scrapie
+#basic webscraper for https://www.esportsearnings.com/ 
+
 #libraries
 library(rvest)
 library(tidyverse)
